@@ -44,10 +44,6 @@ py server.py
 
 # 指定管理员密码（4位数字）
 py server.py 0000
-
-# 不显示GUI窗口
-py server.py --no-gui
-py server.py 1981 --no-gui
 ```
 
 > **注意**：如果 `python` 命令无法正常工作，请改用 `py` 命令或安装官方Python。
